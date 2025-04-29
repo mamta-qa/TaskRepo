@@ -1,0 +1,72 @@
+MAMTA RANI
+QA PROFESSIONAL | MANUAL and AUTOMATION TESTING | WEB & MOBILE APPLICATIONS
+LinkedIn: www.linkedin.com/in/mamta-dhiman/
+Email: mamtadeejul@gmail.com
+Phone: +91-8447428681
+PROFILE SUMMARY
+QA Engineer with 6+ years of experience in software testing, specializing in Web & Mobile Automation Testing,
+Functional Testing, and API Testing.
+ Expertise in automation tools like Selenium Web Driver and TestNG for web applications.
+ Hands-on experience with Postman and Rest Assured for API Testing.
+ Proficient in CI/CD integration with Jenkins, and GitHub Actions.
+ Strong experience in Cross-Browser Testing, Accessibility Testing, and Performance Testing.
+ Adept at working in Agile/Scrum environments, collaborating with cross-functional teams to ensure high
+quality releases.
+ Excellent client handling and stakeholder communication skills.
+CORE COMPETENCIES
+ Automation Testing (Selenium WebDriver, TestNG, Cucumber)
+ Web & Mobile Testing (Android, iOS, Sauce Labs)
+ Functional & Regression Testing
+ API Testing (Postman, Rest Assured)
+ Performance Testing (JMeter)
+ CI/CD Integration (Jenkins, GitHub Actions)
+ Test Case Design & Execution
+ Cross-Browser Testing (BrowserStack)
+ Bug Reporting & Management (JIRA, qTest, TestRail, Trello)
+ Agile/Scrum Methodologies
+TOOLS & TECHNOLOGIES
+ Test Automation: Selenium WebDriver, TestNG, JUnit
+ API Testing: Postman, Rest Assured, Swagger
+ Performance Testing: JMeter, GTmetrix
+ CI/CD & Version Control: Jenkins, GitHub Actions
+ Test Management: JIRA, qTest, Xray, TestRail, Pivotal Tracker, Trello
+ Cross-Browser Testing: BrowserStack, Sauce Labs
+ Programming Languages: Java, JavaScript, Python (basic)
+WORK EXPERIENCE
+Senior Test Engineer L2
+Think Future Technologies, Gurugram
+Jan 2020 - Oct 2024
+ Led automation testing initiatives for web applications using Selenium WebDriver.
+ Designed and implemented robust test automation frameworks for regression and smoke testing.
+ Integrated automation tests with Jenkins pipelines for CI/CD execution.
+ Conducted API testing with Postman and Rest Assured for backend validation.
+ Implemented cross-browser testing strategies using BrowserStack and Sauce Labs.
+ Managed end-to-end test case design, execution, and bug tracking using JIRA and qTest.
+ Provided detailed test reports and quality metrics to stakeholders
+Test Engineer TrioTech Solutions, Gurugram
+Aug 2019 - Dec 2020
+ Developed and executed Test cases.
+ Conducted performance testing using JMeter to analyze system scalability.
+ Performed cross-browser compatibility testing for major web applications.
+ Delivered sprint-wise QA status updates and demos to clients.
+Associate Test Engineer
+Promien Services, Noida
+Dec 2017 - July 2019
+ Conducted UI, Functional, and Regression Testing for web and mobile applications.
+ Performed API testing using Postman, ensuring seamless backend communication.
+ Collaborated with development teams to identify and resolve issues efficiently.
+EDUCATION
+B.Tech. in Information Technology
+Kurukshetra University, Haryana – Nov 2017
+CERTIFICATIONS
+ Certified Scrum Master (CSM) – Scrum Alliance
+ Apache JMeter Certification – BlazeMeter
+EXTRACURRICULAR ACTIVITIES
+ Active participant in cultural and CSR initiatives.
+ A regular contributor to QA communities and forums
+PERSONAL DETAILS
+ Languages Known: English, Hindi
+ Location: Gurugram, India
+ Availability: Immediate Joiner
+DECLARATION
+I hereby declare that the above-mentioned information is true to the best of my knowledge and belief.
